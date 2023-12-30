@@ -1,39 +1,96 @@
-<h1 align="center">Hi 👋, I am Esteban</h1>
-<h3 align="center">I am a developer Passionate about Software Development</h3>
+<div align="center">
+  <img height="125" src="https://cdn.discordapp.com/attachments/1169480164812541973/1190788069780103228/Qa2vcER.gif"  />
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=estebang4a&label=Profile%20views&color=0e75b6&style=flat" alt="estebang4a" /> </p>
+###
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=estebang4a" alt="estebang4a" /></a> </p>
+<h1 align="center">Esteban G4A</h1>
 
-<p align="left"> <a href="https://twitter.com/estebang4a" target="blank"><img src="https://img.shields.io/twitter/follow/estebang4a?logo=twitter&style=for-the-badge" alt="estebang4a" /></a> </p>
+###
 
-- 🔭 I’m currently working on [Oreo | Project](https://oreocheats.com/)
+<h1 align="center">Personal Informations</h1>
 
-- 🌱 I’m currently learning : **English and C ++**
+###
 
-- 👯 I’m looking to collaborate on **Paris**
+<h6 align="left">• 🔭 Currently immersed in Oreo | Project development<br><br>• 🌱 Actively advancing my skills in English and C++<br><br>• 👯 Open to collaboration opportunities in Paris<br><br>• 🤝 Seeking assistance for my upcoming project<br><br>• 📫 Reach me at: EstebanG4A@gmail.com<br><br>• 📄 Explore my experiences: Proficient in computer systems, offering software protection services<br><br>• ⚡ Fun fact: I believe I'm quite amusing!</h6>
 
-- 🤝 I’m looking for help with **for my future project**
+###
 
-- 📫 How to reach me : **EstebanG4A@gmail.com**
+<h3 align="left">Programmation Language</h3>
 
-- 📄 Know about my experiences : I am computer savvy I can provide protection service for any software
+###
 
-- ⚡ Fun fact : **I think i'm pretty funny**
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/estebang4a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="estebang4a" height="30" width="40" /></a>
-<a href="https://instagram.com/estebang4a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="estebang4a" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/estebang4a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="estebang4a" height="30" width="40" /></a>
-<a href="https://discordhub.com/profile/669188384249479188" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discordhub.com/profile/669188384249479188" height="30" width="40" /></a>
-</p>
+###
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+<h3 align="left">Database Format</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=estebang4a&show_icons=true&locale=en&layout=compact" alt="estebang4a" /></p>
+###
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=estebang4a&show_icons=true&locale=en" alt="estebang4a" /></p>
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=estebang4a&" alt="estebang4a" /></p>
+###
+
+<h3 align="left">Software Acquired</h3>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ae" height="40" alt="adobeaftereffects logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ai" height="40" alt="adobeillustrator logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+</div>
+
+###
+
+<h3 align="left">Social Networks</h3>
+
+###
+
+<div align="left">
+  <a href="https://discordlookup.com/user/187986767696101385" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+  <a href="https://www.instagram.com/EstebanG4A" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://estebang4a.t.me" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
+  </a>
+  <a href="https://twitter.com/EstebanG4A" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+  <a href="https://www.youtube.com/@EstebanG4A" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  </a>
+  <a href="https://www.twitch.tv/EstebanG4A" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="52" height="40" alt="twitch logo"  />
+  </a>
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/EstebanG4A/EstebanG4A/output/snake.svg" alt="Snake animation" />
+
+###
