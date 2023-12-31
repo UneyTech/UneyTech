@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="125" src="https://cdn.discordapp.com/attachments/1169480164812541973/1190787337219743794/o9cKpts.png?ex=65a31220&is=65909d20&hm=cd76d69858fc8835ebaec102a1cd5971054a6928f8558d4f1cc5582b84eb513b&"  />
+  <img height="200" src="https://cdn.discordapp.com/attachments/1169480164812541973/1190787337219743794/o9cKpts.png?ex=65a31220&is=65909d20&hm=cd76d69858fc8835ebaec102a1cd5971054a6928f8558d4f1cc5582b84eb513b&"  />
 </div>
 
 ###
@@ -130,5 +130,15 @@
 <br clear="both">
 
 <p align="left"></p>
+
+###
+
+<br clear="both">
+
+<h2 align="center">Snake</h2>
+
+###
+
+<img src="https://raw.githubusercontent.com/EstebanG4A/EstebanG4A/output/snake.svg" alt="Snake animation" />
 
 ###
