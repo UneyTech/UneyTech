@@ -4,7 +4,7 @@
 
 ###
 
-<h2 align="center">Skills Chart</h2>
+<h2 align="center">Skills Charts</h2>
 
 ###
 
