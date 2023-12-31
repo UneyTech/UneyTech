@@ -95,7 +95,7 @@
 
 ###
 
-<img align="left" height="260" src="https://cdn.discordapp.com/attachments/1169480164812541973/1190813253207605348/uDaoRTf.png?ex=65a32a43&is=6590b543&hm=a9478a2fee21cdab0cdaf4f3c35bddaf57a3099180aa6570eaa45ccd9a6889e5&"  />
+<img align="left" height="220" src="https://cdn.discordapp.com/attachments/1169480164812541973/1190813253207605348/uDaoRTf.png?ex=65a32a43&is=6590b543&hm=a9478a2fee21cdab0cdaf4f3c35bddaf57a3099180aa6570eaa45ccd9a6889e5&"  />
 
 ###
 
@@ -104,11 +104,5 @@
 ###
 
 <h6 align="left">Customize Windows, Unleash Your Games<br>Oreo Loader redefines the Windows experience by providing advanced customization of system components through exclusive licenses. Transform the look of your operating system, from icons to sounds, all while enjoying unique features. Moreover, our unbanning feature lets you regain control in your favorite games. Simple, powerful, personalized - that's Oreo Loader.</h6>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-</div>
 
 ###
