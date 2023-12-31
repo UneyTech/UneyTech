@@ -106,3 +106,19 @@
 <h6 align="left">Customize Windows, Unleash Your Games<br>Oreo Loader redefines the Windows experience by providing advanced customization of system components through exclusive licenses. Transform the look of your operating system, from icons to sounds, all while enjoying unique features. Moreover, our unbanning feature lets you regain control in your favorite games. Simple, powerful, personalized - that's Oreo Loader.</h6>
 
 ###
+
+<p align="left"></p>
+
+###
+
+<img align="left" height="200" src="https://cdn.discordapp.com/attachments/1169480164812541973/1190822953659682956/R0PLmXY.png"  />
+
+###
+
+<h3 align="left">Erium Project</h3>
+
+###
+
+<h6 align="left">Erium Apps - Elevate Your Windows Experience to New Heights! Unleash a comprehensive array of powerful tools, optimize system performance, and delve into lightning-fast OSINT searches—all conveniently accessible with just a click. Transform and empower your computing journey with the advanced capabilities of Erium Apps!</h6>
+
+###
