@@ -103,7 +103,7 @@
 
 ###
 
-<h5 align="left">Customize Windows, Unleash Your Games<br><br>Oreo Loader redefines the Windows experience by providing advanced customization of system components through exclusive licenses. Transform the look of your operating system, from icons to sounds, all while enjoying unique features. Moreover, our unbanning feature lets you regain control in your favorite games. Simple, powerful, personalized - that's Oreo Loader.</h5>
+<h6 align="left">Customize Windows, Unleash Your Games<br>Oreo Loader redefines the Windows experience by providing advanced customization of system components through exclusive licenses. Transform the look of your operating system, from icons to sounds, all while enjoying unique features. Moreover, our unbanning feature lets you regain control in your favorite games. Simple, powerful, personalized - that's Oreo Loader.</h6>
 
 ###
 
