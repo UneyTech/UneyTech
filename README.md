@@ -16,7 +16,7 @@
 
 ###
 
-<h3 align="left">Programmation Language</h3>
+<h3 align="left">Programmation Language 👨‍💻</h3>
 
 ###
 
@@ -34,7 +34,7 @@
 
 ###
 
-<h3 align="left">Database Format</h3>
+<h3 align="left">Database Format 💾</h3>
 
 ###
 
@@ -46,7 +46,7 @@
 
 ###
 
-<h3 align="left">Software Acquired</h3>
+<h3 align="left">Software Acquired 💻</h3>
 
 ###
 
@@ -64,7 +64,7 @@
 
 ###
 
-<h3 align="left">Social Networks</h3>
+<h3 align="left">Social Networks 🌐</h3>
 
 ###
 
@@ -91,7 +91,7 @@
 
 ###
 
-<h2 align="center">My Projects</h2>
+<h2 align="center">My Works</h2>
 
 ###
 
@@ -99,7 +99,7 @@
 
 ###
 
-<h3 align="left">Oreo  Loader •  2022 - 2024</h3>
+<h3 align="left">Oreo  Loader •  2022 - 2024 🥛</h3>
 
 ###
 
@@ -117,10 +117,16 @@
 
 ###
 
-<h3 align="left">Erium Apps •  2023- 2024</h3>
+<h3 align="left">Erium Apps •  2023- 2024 🌌</h3>
 
 ###
 
-<h6 align="left">Erium Apps - Elevate Your Windows Experience to New Heights! Unleash a comprehensive array of powerful tools, optimize system performance, and delve into lightning-fast OSINT searches—all conveniently accessible with just a click. Transform and empower your computing journey with the advanced capabilities of Erium Apps!</h6>
+<h6 align="left">Erium Apps - Elevate Your Windows Experience to New Heights! Unleash a comprehensive array of powerful tools, optimize system performance, and delve into lightning-fast OSINT searches all conveniently accessible with just a click. Transform and empower your computing journey with the advanced capabilities of Erium Apps!</h6>
+
+###
+
+<br clear="both">
+
+<p align="left"></p>
 
 ###
