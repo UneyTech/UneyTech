@@ -99,7 +99,7 @@
 
 ###
 
-<h3 align="left">Oreo Project</h3>
+<h3 align="left">Oreo  Loader •  2022 - 2024</h3>
 
 ###
 
@@ -111,11 +111,15 @@
 
 ###
 
+<p align="left"></p>
+
+###
+
 <img align="left" height="200" src="https://cdn.discordapp.com/attachments/1169480164812541973/1190822953659682956/R0PLmXY.png"  />
 
 ###
 
-<h3 align="left">Erium Project</h3>
+<h3 align="left">Erium Apps •  2023- 2024</h3>
 
 ###
 
