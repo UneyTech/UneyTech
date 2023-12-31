@@ -95,11 +95,7 @@
 
 ###
 
-<h4 align="center"></h4>
-
-###
-
-<img align="left" height="300" src="https://cdn.discordapp.com/attachments/1169480164812541973/1190813253207605348/uDaoRTf.png?ex=65a32a43&is=6590b543&hm=a9478a2fee21cdab0cdaf4f3c35bddaf57a3099180aa6570eaa45ccd9a6889e5&"  />
+<img align="left" height="250" src="https://cdn.discordapp.com/attachments/1169480164812541973/1190813253207605348/uDaoRTf.png?ex=65a32a43&is=6590b543&hm=a9478a2fee21cdab0cdaf4f3c35bddaf57a3099180aa6570eaa45ccd9a6889e5&"  />
 
 ###
 
@@ -111,28 +107,8 @@
 
 ###
 
-<img align="left" height="50" src="https://cdn.discordapp.com/attachments/1169480164812541973/1190823301493305374/4xg5dSM.png"  />
-
-###
-
-<br clear="both">
-
-<h2 align="center"></h2>
-
-###
-
-<img align="left" height="300" src="https://cdn.discordapp.com/attachments/1169480164812541973/1190822953659682956/R0PLmXY.png"  />
-
-###
-
-<h3 align="left">Erium Project</h3>
-
-###
-
-<h5 align="left">Erium Apps - Elevate Your Windows Experience to New Heights! Unleash a comprehensive array of powerful tools, optimize system performance, and delve into lightning-fast OSINT searches—all conveniently accessible with just a click. Transform and empower your computing journey with the advanced capabilities of Erium Apps!</h5>
-
-###
-
-<img align="left" height="50" src="https://cdn.discordapp.com/attachments/1169487593419849820/1179886896214708224/8ABF2Hz.png"  />
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+</div>
 
 ###
