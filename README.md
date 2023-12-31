@@ -12,7 +12,7 @@
 
 ###
 
-<h4 align="left">• 🔭 Currently immersed in Oreo | Project development<br><br>• 🌱 Actively advancing my skills in English and C++<br><br>• 👯 Open to collaboration opportunities in Paris<br><br>• 🤝 Seeking assistance for my upcoming project<br><br>• 📫 Reach me at: EstebanG4A@gmail.com<br><br>• 📄 Explore my experiences: Proficient in computer systems, offering software protection services<br><br>• ⚡ Fun fact: I believe I'm quite amusing!</h4>
+<h4 align="left">• 🔭 Actively involved in Erium Apps and Oreo Loader projects.<br><br>• 🌱 Advancing skills in English and C++.<br><br>• 👯 Open to collaboration opportunities in Paris.<br><br>• 🤝 Seeking assistance for my upcoming project.<br><br>• 📫 Contact me at: EstebanG4A@gmail.com.<br><br>• 📄 Explore my expertise: Proficient in computer systems, specializing in software protection services.<br><br>• ⚡ Fun fact: I believe I have a great sense of humor!</h4>
 
 ###
 
