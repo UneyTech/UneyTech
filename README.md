@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="300" src="https://cdn.objectivity.co.uk/media/4v1jarr4/ux_ui_design_800_400.png"  />
+  <img height="150" src="https://techisor.com/wp-content/uploads/2022/02/Software-development-2.png"  />
 </div>
 
 ###
