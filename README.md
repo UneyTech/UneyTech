@@ -129,12 +129,6 @@
 
 <br clear="both">
 
-<p align="left"></p>
-
-###
-
-<br clear="both">
-
 <h2 align="center">Snake</h2>
 
 ###
