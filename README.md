@@ -107,11 +107,9 @@
 
 ###
 
-<p align="left"></p>
+<br clear="both">
 
-###
-
-<p align="left"></p>
+<h4 align="left"></h4>
 
 ###
 
