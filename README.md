@@ -12,7 +12,7 @@
 
 ###
 
-<h6 align="left">• 🔭 Currently immersed in Oreo | Project development<br><br>• 🌱 Actively advancing my skills in English and C++<br><br>• 👯 Open to collaboration opportunities in Paris<br><br>• 🤝 Seeking assistance for my upcoming project<br><br>• 📫 Reach me at: EstebanG4A@gmail.com<br><br>• 📄 Explore my experiences: Proficient in computer systems, offering software protection services<br><br>• ⚡ Fun fact: I believe I'm quite amusing!</h6>
+<h5 align="left">• 🔭 Currently immersed in Oreo | Project development<br><br>• 🌱 Actively advancing my skills in English and C++<br><br>• 👯 Open to collaboration opportunities in Paris<br><br>• 🤝 Seeking assistance for my upcoming project<br><br>• 📫 Reach me at: EstebanG4A@gmail.com<br><br>• 📄 Explore my experiences: Proficient in computer systems, offering software protection services<br><br>• ⚡ Fun fact: I believe I'm quite amusing!</h5>
 
 ###
 
