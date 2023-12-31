@@ -12,7 +12,7 @@
 
 ###
 
-<h5 align="left">• 🔭 Currently immersed in Oreo | Project development<br><br>• 🌱 Actively advancing my skills in English and C++<br><br>• 👯 Open to collaboration opportunities in Paris<br><br>• 🤝 Seeking assistance for my upcoming project<br><br>• 📫 Reach me at: EstebanG4A@gmail.com<br><br>• 📄 Explore my experiences: Proficient in computer systems, offering software protection services<br><br>• ⚡ Fun fact: I believe I'm quite amusing!</h5>
+<h4 align="left">• 🔭 Currently immersed in Oreo | Project development<br><br>• 🌱 Actively advancing my skills in English and C++<br><br>• 👯 Open to collaboration opportunities in Paris<br><br>• 🤝 Seeking assistance for my upcoming project<br><br>• 📫 Reach me at: EstebanG4A@gmail.com<br><br>• 📄 Explore my experiences: Proficient in computer systems, offering software protection services<br><br>• ⚡ Fun fact: I believe I'm quite amusing!</h4>
 
 ###
 
@@ -91,6 +91,48 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/EstebanG4A/EstebanG4A/output/snake.svg" alt="Snake animation" />
+<h2 align="center">My Projects</h2>
+
+###
+
+<h4 align="center"></h4>
+
+###
+
+<img align="left" height="350" src="https://cdn.discordapp.com/attachments/1169480164812541973/1190813253207605348/uDaoRTf.png?ex=65a32a43&is=6590b543&hm=a9478a2fee21cdab0cdaf4f3c35bddaf57a3099180aa6570eaa45ccd9a6889e5&"  />
+
+###
+
+<h2 align="left">Oreo Project</h2>
+
+###
+
+<h4 align="left">Customize Windows, Unleash Your Games<br><br>Oreo Loader redefines the Windows experience by providing advanced customization of system components through exclusive licenses. Transform the look of your operating system, from icons to sounds, all while enjoying unique features. Moreover, our unbanning feature lets you regain control in your favorite games. Simple, powerful, personalized - that's Oreo Loader.</h4>
+
+###
+
+<img align="left" height="50" src="https://cdn.discordapp.com/attachments/1169480164812541973/1190823301493305374/4xg5dSM.png"  />
+
+###
+
+<br clear="both">
+
+<h2 align="center"></h2>
+
+###
+
+<img align="left" height="350" src="https://cdn.discordapp.com/attachments/1169480164812541973/1190822953659682956/R0PLmXY.png"  />
+
+###
+
+<h2 align="left">Erium Project</h2>
+
+###
+
+<h4 align="left">Erium Apps - Elevate Your Windows Experience to New Heights! Unleash a comprehensive array of powerful tools, optimize system performance, and delve into lightning-fast OSINT searches—all conveniently accessible with just a click. Transform and empower your computing journey with the advanced capabilities of Erium Apps!</h4>
+
+###
+
+<img align="left" height="50" src="https://cdn.discordapp.com/attachments/1169487593419849820/1179886896214708224/8ABF2Hz.png"  />
 
 ###
