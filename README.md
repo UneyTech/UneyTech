@@ -95,7 +95,7 @@
 
 ###
 
-<img align="left" height="250" src="https://cdn.discordapp.com/attachments/1169480164812541973/1190813253207605348/uDaoRTf.png?ex=65a32a43&is=6590b543&hm=a9478a2fee21cdab0cdaf4f3c35bddaf57a3099180aa6570eaa45ccd9a6889e5&"  />
+<img align="left" height="260" src="https://cdn.discordapp.com/attachments/1169480164812541973/1190813253207605348/uDaoRTf.png?ex=65a32a43&is=6590b543&hm=a9478a2fee21cdab0cdaf4f3c35bddaf57a3099180aa6570eaa45ccd9a6889e5&"  />
 
 ###
 
