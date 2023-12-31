@@ -1,14 +1,10 @@
 <div align="center">
-  <img height="200" src="https://cdn.discordapp.com/attachments/1169480164812541973/1190787337219743794/o9cKpts.png?ex=65a31220&is=65909d20&hm=cd76d69858fc8835ebaec102a1cd5971054a6928f8558d4f1cc5582b84eb513b&"  />
+  <img height="300" src="https://cdn.objectivity.co.uk/media/4v1jarr4/ux_ui_design_800_400.png"  />
 </div>
 
 ###
 
-<h2 align="center">Esteban G4A</h2>
-
-###
-
-<h3 align="center">Personal Informations</h3>
+<h2 align="center">Skills Chart</h2>
 
 ###
 
