@@ -1,6 +1,14 @@
 <div align="center">
-  <img height="300" src="https://cdn.discordapp.com/attachments/1169480164812541973/1190903200824434728/pG9clYD.gif"  />
+  <img height="200" src="https://cdn.discordapp.com/attachments/1169480164812541973/1190787337219743794/o9cKpts.png?ex=65a31220&is=65909d20&hm=cd76d69858fc8835ebaec102a1cd5971054a6928f8558d4f1cc5582b84eb513b&"  />
 </div>
+
+###
+
+<h2 align="center">Esteban G4A</h2>
+
+###
+
+<h3 align="center">Personal Informations</h3>
 
 ###
 
