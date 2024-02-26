@@ -46,29 +46,14 @@
   </div>
 
   <h3 align="left" style="color: #333;">Social Networks 🌐</h3>
+  
+[![Discord](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg)](https://discordlookup.com/user/187986767696101385)
+[![Telegram](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg)](https://estebang4a.t.me)
+[![Twitter](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg)](https://twitter.com/EstebanG4A)
+[![Youtube](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg)](https://www.youtube.com/@EstebanG4A)
+[![Twitch](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg)](https://www.twitch.tv/EstebanG4A)
 
-  <br clear="both">
 
-  <div align="left">
-    <a href="https://discordlookup.com/user/187986767696101385" target="_blank">
-      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" style="margin-right: 10px; vertical-align: middle;" />
-    </a>
-    <a href="https://www.instagram.com/EstebanG4A" target="_blank">
-      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" style="margin-right: 10px; vertical-align: middle;" />
-    </a>
-    <a href="https://estebang4a.t.me" target="_blank">
-      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo" style="margin-right: 10px; vertical-align: middle;" />
-    </a>
-    <a href="https://twitter.com/EstebanG4A" target="_blank">
-      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo" style="margin-right: 10px; vertical-align: middle;" />
-    </a>
-    <a href="https://www.youtube.com/@EstebanG4A" target="_blank">
-      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo" style="margin-right: 10px; vertical-align: middle;" />
-    </a>
-    <a href="https://www.twitch.tv/EstebanG4A" target="_blank">
-      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="52" height="40" alt="twitch logo"  style="margin-right: 10px; vertical-align: middle;" />
-    </a>
-  </div>
 
 </div>
 
