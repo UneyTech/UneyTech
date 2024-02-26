@@ -10,7 +10,7 @@
 
 <div style="font-family: Arial, sans-serif; color: #555;">
 
-  <h4 align="left">• 🔭 Actively involved in <a href="lien_vers_erium_apps" style="color: #007bff; text-decoration: none;">Erium Apps</a> and <a href="lien_vers_oreo_loader" style="color: #007bff; text-decoration: none;">Oreo Loader</a> projects.<br><br>
+  <h4 align="left">• 🔭 Actively involved in <a href="https://erium.shop" style="color: #007bff; text-decoration: none;">Erium Apps</a> and <a href="https://oreocheats.com" style="color: #007bff; text-decoration: none;">Oreo Loader</a> projects.<br><br>
   • 🌱 Advancing skills in English and C++.<br><br>
   • 👯 Open to collaboration opportunities in Paris.<br><br>
   • 🤝 Seeking assistance for my upcoming project.<br><br>
