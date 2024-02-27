@@ -14,7 +14,7 @@
   • 🌱 Advancing skills in English and C++.<br><br>
   • 👯 Open to collaboration opportunities in Paris.<br><br>
   • 🤝 Seeking assistance for my upcoming project.<br><br>
-  • 📫 Contact me at: <a href="mailto:Contact@Uney.Pro" style="color: #007bff; text-decoration: none;">EstebanG4A@gmail.com</a>.<br><br>
+  • 📫 Contact me at: <a href="mailto:Contact@Uney.Pro" style="color: #007bff; text-decoration: none;">Contact@Uney.Pro</a>.<br><br>
   • 📄 Explore my expertise: Proficient in computer systems, specializing in software protection services.<br><br>
   • ⚡ Fun fact: I believe I have a great sense of humor!</h4>
 
@@ -48,10 +48,10 @@
   <h3 align="left" style="color: #333;">Social Networks 🌐</h3>
   
 [![Discord](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg)](https://discordlookup.com/user/187986767696101385)
-[![Telegram](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg)](https://estebang4a.t.me)
-[![Twitter](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg)](https://twitter.com/EstebanG4A)
-[![Youtube](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg)](https://www.youtube.com/@EstebanG4A)
-[![Twitch](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg)](https://www.twitch.tv/EstebanG4A)
+[![Telegram](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg)](https://UneyTech.t.me)
+[![Twitter](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg)](https://twitter.com/UneyTech)
+[![Youtube](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg)](https://www.youtube.com/@UneyTech)
+[![Twitch](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg)](https://www.twitch.tv/UneyTech)
 
 
 
