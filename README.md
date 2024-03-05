@@ -47,11 +47,12 @@
 
   <h3 align="left" style="color: #333;">Social Networks 🌐</h3>
   
-[![Discord](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg)](https://discordlookup.com/user/187986767696101385)
-[![Telegram](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg)](https://UneyTech.t.me)
-[![Twitter](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg)](https://twitter.com/UneyTech)
-[![Youtube](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg)](https://www.youtube.com/@UneyTech)
-[![Twitch](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg)](https://www.twitch.tv/UneyTech)
+[![Discord](https://github.com/UneyTech/UneyTech/blob/main/Assets/Images/Networks/Discord.png)](https://discordlookup.com/user/187986767696101385)
+[![Telegram](https://github.com/UneyTech/UneyTech/blob/main/Assets/Images/Networks/Telegram.png)](https://UneyTech.t.me)
+[![Twitter](https://github.com/UneyTech/UneyTech/blob/main/Assets/Images/Networks/Twitter.png)](https://twitter.com/UneyTech)
+[![Youtube](https://github.com/UneyTech/UneyTech/blob/main/Assets/Images/Networks/Discord.png?raw=true)](https://www.youtube.com/@UneyTech)
+[![Twitch](https://github.com/UneyTech/UneyTech/blob/main/Assets/Images/Networks/Twitch.png?raw=true)](https://www.twitch.tv/UneyTech)
+[![Instagram](https://github.com/UneyTech/UneyTech/blob/main/Assets/Images/Networks/Instagram.png?raw=true)](https://www.instagram.com/UneyTech/)
 
 
 
