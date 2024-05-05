@@ -14,7 +14,7 @@
   • 🌱 Advancing skills in English and C++.<br><br>
   • 👯 Open to collaboration opportunities in Paris.<br><br>
   • 🤝 Seeking assistance for my upcoming project.<br><br>
-  • 📫 Contact me at: <a href="mailto:Contact@Uney.Pro" style="color: #007bff; text-decoration: none;">Email Now</a>.<br><br>
+  • 📫 Contact me at: <a href="mailto:Contact@Uney.Tech" style="color: #007bff; text-decoration: none;">Email Now</a>.<br><br>
   • 📄 Explore my expertise: Proficient in computer systems, specializing in software protection services.<br><br>
   • ⚡ Fun fact: I believe I have a great sense of humor!</h4>
 
