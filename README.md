@@ -1,7 +1,3 @@
-<div align="center">
-  <img height="150" src="https://techisor.com/wp-content/uploads/2022/02/Software-development-2.png"  />
-</div>
-
 ###
 
 <h2 align="center" style="font-family: Arial, sans-serif; color: #333;">Skills Charts</h2>
